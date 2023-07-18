@@ -9,4 +9,7 @@ Utilizes various simple functionality from the Android Studio to build a simplis
 
 These can then be saved to a storage class which implements a singleton design pattern.
 
-This information can then be viewed in a separate window, which utilizes a scrollable recycler view-
+This information can then be viewed in a separate window, which utilizes a scrollable recycler view.
+
+
+Icons in the program courtesy of Florian Körner (Licensed under CC0 1.0) downloaded from https://dicebear.com
